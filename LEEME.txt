@@ -1,0 +1,9 @@
+KRAGLE 2.0 — versión iPad
+
+1. Crea un repositorio público llamado kragle en GitHub.
+2. Sube index.html, manifest.webmanifest, sw.js, icon-192.png e icon-512.png a la raíz.
+3. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+4. Abre la URL que GitHub indique en Safari. Compartir > Añadir a pantalla de inicio.
+5. Abre desde el icono con internet una vez. Prueba el modo avión antes del evento.
+
+El temporizador guarda localmente el estado; si estaba en marcha, el tiempo sigue contando aunque se cierre. No borres datos del sitio. El sonido necesita una interacción táctil tras abrir la aplicación. Wake Lock depende del navegador; desactiva el bloqueo automático en el iPad si no funciona.
